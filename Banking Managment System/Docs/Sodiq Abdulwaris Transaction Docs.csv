@@ -1,0 +1,10 @@
+﻿Type,Amount,Description,Time
+Transfer,4000,Transfered ₦4000.00 to Jake Jack,2025-10-12 00:25:44
+Transfer,19000,Failed to Transfer ₦19000.0 to 6154920894.0 due to insufficient balance.,2025-10-12 00:22:54
+Charges,50,"Charged ₦50.00 for transactions exceeding ₦10,000.00",2025-10-12 00:18:30
+Deposit,9950,Deposited ₦9950.00 to 6152819504,2025-10-12 00:18:30
+Withdrawal,10000,Successfully Withdrew ₦10000.00,2025-10-12 00:17:06
+Deposit,10000,Deposited ₦10000.00 to 6152819504,2025-10-12 00:16:31
+Withdrawal,1000,Successfully Withdrew ₦1000.00,2025-10-12 00:13:26
+Withdrawal,6000,Failed to withdraw ₦6000.00,2025-10-12 00:13:20
+Deposit,5000,Initial deposit,2025-10-11 23:36:58
